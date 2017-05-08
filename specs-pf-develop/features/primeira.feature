@@ -3,7 +3,7 @@
 Funcionalidade: Home não Logada (Tela de Login)
   A home não logada é a primeira tela do aplicativo.
 
-  Erros:
+  Erros::
   1) Agência inválida
   2) Conta inválida
   3) Senha inválida, digitada uma, duas ou três vezes

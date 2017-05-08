@@ -2,7 +2,7 @@
 # Boas práticas
 
 Leia a Wiki com informações importantes do projeto! 
-
+ - TEste
 -----
 
 # Getting Started 
