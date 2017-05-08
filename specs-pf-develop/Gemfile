@@ -1,0 +1,9 @@
+# Gemfile to help setting up the initial development environment
+source "http://rubygems.org"
+
+gem 'calabash-common', '~> 0.0.2'
+gem 'calabash-android', '~> 0.9.0'
+gem 'calabash-cucumber', '~> 0.20.3'
+gem 'pry-byebug', '~> 3.4'
+gem 'itau_mobile', '~> 1.1.1'
+gem 'mongo', '~> 2.2'

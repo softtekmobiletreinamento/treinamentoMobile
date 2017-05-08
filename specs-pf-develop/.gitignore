@@ -1,0 +1,12 @@
+.irb-history
+reports/*
+test_servers/*
+.DS_Store
+screenshot*.png
+.idea/
+.ruby-version
+config/scripts/ios/build_app.yml
+*.apk
+*.html
+*.ruby-version
+*.
